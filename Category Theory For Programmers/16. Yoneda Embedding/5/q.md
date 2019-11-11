@@ -1,0 +1,1 @@
+Yoneda embedding can be used to embed an arbitrary functor category `[C, D]` in the functor category `[[C, D], Set]`. Figure out how it works on morphisms (which in this case are natural transformations).

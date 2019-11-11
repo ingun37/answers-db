@@ -1,0 +1,1 @@
+Define a bifunctor in a language other than Haskell. Implement `bimap` for a generic pair in that language.

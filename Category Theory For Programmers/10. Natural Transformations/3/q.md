@@ -1,0 +1,1 @@
+Continue the previous exercise with `Reader Bool` and `Maybe`.

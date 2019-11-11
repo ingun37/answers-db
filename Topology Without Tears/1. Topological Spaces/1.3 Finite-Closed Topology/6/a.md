@@ -1,0 +1,2 @@
+Subset of a countable set is countable. So intersection of finite or infinite number of countable sets must be also countable. Hence every intersection of finite or infinite number of closed sets are also closed.  
+And union of two countable set is also countable. Hence every union of any two closed sets are also closed.

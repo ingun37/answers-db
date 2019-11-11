@@ -1,0 +1,1 @@
+A list of units `[()]` contains no other information but its length. So, as a data type, it can be considered an encoding of integers. An empty list encodes zero, a singleton `[()]` (a value, not a type) encodes one, and so on. Construct another representation of this data type using the Yoneda lemma for the list functor.

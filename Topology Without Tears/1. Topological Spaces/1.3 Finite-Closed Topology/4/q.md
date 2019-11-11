@@ -1,0 +1,1 @@
+Let $\tau$ be the finite-closed topology on a set $X$. If $\tau$ is also the discrete topology, prove that the set $X$ is finite.

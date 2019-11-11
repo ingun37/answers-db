@@ -1,0 +1,1 @@
+Let $S$ be a dense subset of a topological space $(X, \tau)$. Prove that for every open subset $U$ of $X$, $\overline {S\cap U}=\overline {U}$

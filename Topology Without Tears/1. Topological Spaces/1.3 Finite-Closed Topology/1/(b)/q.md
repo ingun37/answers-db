@@ -1,0 +1,1 @@
+Prove that (2) is true

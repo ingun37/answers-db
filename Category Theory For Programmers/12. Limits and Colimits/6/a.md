@@ -1,0 +1,1 @@
+It’s the same way as previous challenge but with opposite morphisms.

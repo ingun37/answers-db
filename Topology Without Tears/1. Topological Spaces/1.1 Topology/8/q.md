@@ -1,0 +1,1 @@
+Let $X$ be an infinite st ad $\tau$ a topology on $X$. If every infinite subset of $X$ is in $\tau$, prove that $\tau$ is the discrete topology.

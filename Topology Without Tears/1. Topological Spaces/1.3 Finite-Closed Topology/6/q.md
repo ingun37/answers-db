@@ -1,0 +1,1 @@
+Let $X$ be any infinite set. The countable-closed topology is defined to be the topology having as its closed sets $X$ and all countable subsets of $X$. Prove that this is indeed a topology on $X$.

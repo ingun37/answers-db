@@ -1,0 +1,1 @@
+Let's say that $X$ is infinite. Since $\tau$ is finite-closed, every open sets must be infinite. It can't be a discrete topology. Contradiction.

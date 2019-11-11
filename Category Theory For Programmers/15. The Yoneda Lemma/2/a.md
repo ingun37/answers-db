@@ -1,0 +1,1 @@
+The `C(a, -)` functor must be mapping a into singleton set and every other into empty set. So natural transformation must be looking like singleton set `C(a, a)` selecting an object in `F a` while any other objects are transformed via absurd function.
