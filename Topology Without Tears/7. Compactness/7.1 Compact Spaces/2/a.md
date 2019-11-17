@@ -11,6 +11,6 @@ For every $x_{0}$ it must be belonged to an open set $A_0$ from $A$
 $\forall x_{0},\exists A_{0}s.tx_{0}\in A_{0}\in A$
 And since $A_0$ is open and $S$ is cofinite topology, $A^{c}_{0}=X/A_{0}$ must be finite.  
 $S$ is also finite. which means
-$S\cap A^{c}_{0}=\left\\{ x_{1},x_{2}\ldots x_{n}\right\\}$
+$S\cap A^{c}_{0}=\left\{ x_{1},x_{2}\ldots x_{n}\right\}$
 As well as $x_0$ and $A_0$, being an element of $S$, each $x_n$ must have it's own $A_n$
 So $S$ can be expressed as union of $A_0$ to $A_n$ which is of finite number $n$ hence $S$ is compact.

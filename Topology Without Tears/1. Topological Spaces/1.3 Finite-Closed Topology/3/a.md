@@ -12,7 +12,7 @@
 
 (iv) Example 1.1.2;
 
-> No. It has no $\\{b\\}$ as open set. (or any other element except $a$)
+> No. It has no $\{b\}$ as open set. (or any other element except $a$)
 
 (v) Example 1.1 #5 (i)
 
