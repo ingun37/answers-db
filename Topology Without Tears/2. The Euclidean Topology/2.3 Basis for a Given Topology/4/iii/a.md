@@ -16,9 +16,9 @@ $ f_{n}=\left| f_{n}\right| =\left| f_{n}-0\right|$
 Now lets prove that $ f_{n}$ converge to 0 in $ \tau_{1}$
   
 Given any $ \varepsilon$, there exist integer $ n_{0}$ which holds
-$ \int ^{1}_{0}f_{n_{0}} <\int ^{\infty }_{-\infty }f_{n_{0}}=\dfrac {\sqrt {2\times \pi }}{n_{0}} <\varepsilon $
+$ \int ^{1}_{0}f_{n_{0}} \lt\int ^{\infty }_{-\infty }f_{n_{0}}=\dfrac {\sqrt {2\times \pi }}{n_{0}} \lt\varepsilon$
 deduce
-$ \forall n\geq n_{0},d\left( 0,f_{n}\right) =\int ^{1}_{0}\left| f_{n}-0\right| =\int ^{1}_{0}f_{n} <\int ^{\infty }_{-\infty }f_{n}=\dfrac {\sqrt {2\times \pi }}{n}\leq \dfrac {\sqrt {2\times \pi }}{n_{0}} <\varepsilon $
+$ \forall n\geq n_{0},d\left( 0,f_{n}\right) =\int ^{1}_{0}\left| f_{n}-0\right| =\int ^{1}_{0}f_{n} \lt\int ^{\infty }_{-\infty }f_{n}=\dfrac {\sqrt {2\times \pi }}{n}\leq \dfrac {\sqrt {2\times \pi }}{n_{0}} \lt\varepsilon$
 Now lets prove that $ f_{n}$ does not converge to 0 in $ \tau_{2}$
   
 It's easy since gaussian function always has supermum of 1 so in $ \tau_{2}$ following holds no matter what $ f_{n}$
