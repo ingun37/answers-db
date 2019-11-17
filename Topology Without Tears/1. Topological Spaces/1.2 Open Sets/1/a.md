@@ -1,5 +1,3 @@
-|  |  |  |
-| -- | -- | -- | -- |
 | {} is clopen | {a} is clopen | {a b} is neither | {a b c} is neither |
 | {a b c d} is neither | {a b c d e} is neither | {a b c d e f} is clopen | {a b c d f} is neither |
 | {a b c e} is neither | {a b c e f} is neither | {a b c f} is neither | {a b d} is neither |
