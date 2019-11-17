@@ -1,4 +1,4 @@
-(i) $\tau_1$ consists of $\mathbb{R}$, $\phi$, and every interval $(a,b)$, for $a$ and $b$ any real numbers with $a &lt; b$ ;
+(i) $\tau_1$ consists of $\mathbb{R}$, $\phi$, and every interval $(a,b)$, for $a$ and $b$ any real numbers with $a < b$ ;
 
 > Not a topology. $(1,2) \cup (4, 5)$ should be open but it's not.
 
