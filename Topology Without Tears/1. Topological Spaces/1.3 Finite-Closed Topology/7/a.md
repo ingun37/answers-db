@@ -11,7 +11,7 @@
 > (2) $A$ and $B$ are in $\tau_2$ $\rightarrow$ $A \cap B \in \tau_2$  
 > (1) and (2) $\rightarrow$ $A \cap B \in \tau_4$
 
-> Let $S = \bigcup _{j\in J} S_j$ where each $S_j \in \tau_4$ and $J$ is infinite or finite index set.  
+> Let $S = \bigcup _{j\in J} S_j $ where each $S_j \in \tau_4$ and $J$ is infinite or finite index set.  
 > (1) Each $S_j$ are in $\tau_1$ $\rightarrow$ $S \in \tau_1$  
 > (2) Each $S_j$ are in $\tau_2$ $\rightarrow$ $S \in \tau_2$  
 > (1) and (2) $\rightarrow S \in \tau_4$
