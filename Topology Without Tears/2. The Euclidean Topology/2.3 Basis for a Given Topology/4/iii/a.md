@@ -26,4 +26,4 @@ So $ \tau_{1} $ and $ \tau_{2}$ is not same
 
 following image summarizes
 
-![]({{site.baseurl}}/assets/img/img.jpg)
+![](assets/img/img.jpg)
