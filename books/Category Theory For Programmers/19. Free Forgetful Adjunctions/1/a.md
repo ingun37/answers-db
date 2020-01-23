@@ -1,5 +1,7 @@
 For convinience, since free monoid from singleton generator is isomorphic to natural numbers, I'll denote 0 as identity element and 1 as singleton element.
 
+![](assets/IMG_F92ACCF53977-1.jpeg)
+
 Let's define $g$ with $f$.  
 $g(1) = f(1)$  
 $g$ is homomorphism so by definition below statements will automatically be hold.  
