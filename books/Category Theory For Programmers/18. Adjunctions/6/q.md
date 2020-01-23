@@ -1,0 +1,1 @@
+Define the adjunction between a product and a function object in Haskell.
