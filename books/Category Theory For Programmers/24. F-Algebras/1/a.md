@@ -45,7 +45,8 @@ calc :: Ring -> [Int]
 calc = cata alg
 ```
 
-Test code
+## Test code
+
 ```haskell
 import Lib
 import Data.Fix
@@ -53,4 +54,11 @@ import Data.Fix
 main :: IO ()
 main = do
     print $ calc (Fix (RAdd (Fix ROne) (Fix ROne)))
+```
+
+## Result
+```shell
+ingun$ stack test
+...
+[2]
 ```
