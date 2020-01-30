@@ -41,8 +41,6 @@ alg (RMul x y) = let f :: Int -> Int
                      in
                          map f [0..(degree x + degree y)]
 
-calc :: Ring -> [Int]
-calc = cata alg
 ```
 
 ## Test code
@@ -53,7 +51,7 @@ import Data.Fix
 
 main :: IO ()
 main = do
-    print $ calc (Fix (RAdd (Fix ROne) (Fix ROne)))
+    print $ cata alg $ Fix (RAdd (Fix ROne) (Fix ROne))
 ```
 
 ## Result
