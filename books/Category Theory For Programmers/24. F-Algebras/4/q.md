@@ -1,0 +1,1 @@
+Define a coalgebra whose anamorphism produces a list of squares of natural numbers.

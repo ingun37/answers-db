@@ -43,7 +43,7 @@ alg (RMul x y) = let f :: Int -> Int
 
 ```
 
-## Test code
+## Test
 
 ```haskell
 import Lib

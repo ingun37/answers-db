@@ -30,7 +30,7 @@ matalg (RNeg x) = fmap negate x
 matalg (RAdd x y) = elementwise (+) x y 
 matalg (RMul x y) = multStd x y 
 ```
-## Test code
+## Test
 
 ```haskell
 main :: IO ()
