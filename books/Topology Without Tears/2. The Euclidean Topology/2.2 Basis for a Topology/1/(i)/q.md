@@ -1,0 +1,1 @@
+Let $\langle a,b \rangle$ be any point in the disc $D=\{\langle x,y \rangle : x^2 + y^2 < 1 \}$ is an open subset of $\mathbb{R}^2$ be the open rectangle with vertices at the points $\langle a\pm \dfrac{1-r}{8},b\pm \dfrac{1-r}{8}\rangle$. Verify that $R_{\langle a,b \rangle} \subset D$

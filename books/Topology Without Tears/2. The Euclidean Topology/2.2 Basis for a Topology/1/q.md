@@ -1,0 +1,1 @@
+In this exercise you will prove that disc $\{\langle x,y \rangle :x^2 + y^2 < 1\}$ is an open subset of $\mathbb{R}^2$, and then that every open disc in the plane is an open set.
