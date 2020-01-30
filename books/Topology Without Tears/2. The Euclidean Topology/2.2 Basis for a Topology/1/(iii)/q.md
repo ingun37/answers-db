@@ -1,0 +1,1 @@
+Deduce from (ii) that $D$ is an open set in $\mathbb{R}^2$
