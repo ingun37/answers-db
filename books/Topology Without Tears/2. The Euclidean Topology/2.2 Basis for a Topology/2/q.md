@@ -1,0 +1,1 @@
+In this exercise you will show that the collection of all open discs in $\mathbb{R}^2$ is a basis for a topology on $\mathbb{R}^2$. [Later we shall see that this is the euclidean topology.]
