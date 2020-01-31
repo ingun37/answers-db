@@ -1,1 +1,1 @@
-Using (ii) and Proposition 2.2.8, prove that the collection of all open discs in $\mathb{R}^2$ is a basis for a topology on $\mathb{R}^2$.
+Using (ii) and Proposition 2.2.8, prove that the collection of all open discs in $\mathbb{R}^2$ is a basis for a topology on $\mathb{R}^2$.
