@@ -17,4 +17,4 @@
 | {c f} is neither | {d} is neither | {d e} is neither | {d e f} is neither |
 | {d f} is neither | {e} is neither | {e f} is neither | {f} is neither |
 
-I had to make a script for this(in Haskell). code available here 👉 [go to gist](https://gist.github.com/ingun37/db4a0c8dc98aa32b6c5a364a446f91d6)
+I had to make a script for this(in Haskell). code available here [go to gist](https://gist.github.com/ingun37/db4a0c8dc98aa32b6c5a364a446f91d6)

@@ -1,1 +1,1 @@
-It is a sum type of `Nil` and `Cons a b`. `Cons a b` is no different to `Pair a b` which we just proved to be a bifunctor. So it’s algebraic type on a bifunctor hence bifunctor.
+It is a sum type of `Nil` and `Cons a b`. `Cons a b` is no different to `Pair a b` which we just proved to be a bifunctor. So it's algebraic type on a bifunctor hence bifunctor.

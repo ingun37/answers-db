@@ -1,3 +1,3 @@
 In haskell, `List ()`
 
-It’s a representation of natural numbers
+It's a representation of natural numbers

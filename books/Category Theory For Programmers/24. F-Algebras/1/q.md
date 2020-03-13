@@ -1,1 +1,1 @@
-Implement the evaluation function for a ring of polynomials of one variable. You can represent a polynomial as a list of coefficients in front of powers of `x`. For instance, $4x^2-1$ would be represented as (starting with the zero’th power) `[-1, 0, 4]`.
+Implement the evaluation function for a ring of polynomials of one variable. You can represent a polynomial as a list of coefficients in front of powers of `x`. For instance, $4x^2-1$ would be represented as (starting with the zero'th power) `[-1, 0, 4]`.

@@ -1,1 +1,1 @@
-Implement the algebra for the ring of 2×2 matrices.
+Implement the algebra for the ring of 2x2 matrices.
