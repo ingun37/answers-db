@@ -1,1 +1,1 @@
-Let $S$ and $T$ be non-empty subsets of a topological space $(X, \tau)$ with $S \subseteq T$.
+Let $`S`$ and $`T`$ be non-empty subsets of a topological space $`(X, \tau)`$ with $`S \subseteq T`$.

@@ -1,1 +1,1 @@
-If $X$ is any infinite set of cardinality $\aleph$, prove that there are at least $2^{\aleph}$ distinct topologies on $X$. Deduce that every infinite set has an uncountable number of distinct topologies on it.
+If $`X`$ is any infinite set of cardinality $`\aleph`$, prove that there are at least $`2^{\aleph}`$ distinct topologies on $`X`$. Deduce that every infinite set has an uncountable number of distinct topologies on it.

@@ -1,4 +1,4 @@
-Just like the book represented univariate polynomial with 1d array, I represented multivariate polynomial with multi-dimension array. But the data structure for multi-dimension array is just a function. The function accepts index value of `[Int]`. You can think of each element represents degree of `x, y, z ...`s. For example, `[0,1,2]` will mean $x^0y^1z^2$ (simply $yz^2$) and the function will return it's coefficient.
+Just like the book represented univariate polynomial with 1d array, I represented multivariate polynomial with multi-dimension array. But the data structure for multi-dimension array is just a function. The function accepts index value of `[Int]`. You can think of each element represents degree of `x, y, z ...`s. For example, `[0,1,2]` will mean $`x^0y^1z^2`$ (simply $`yz^2`$) and the function will return it's coefficient.
 
 Interesting thing is I used another F-Algebra `Pair`. It's just like the `StreamF` from the book which is used to demonstrate a conversion to List.
 
@@ -48,7 +48,7 @@ instance Functor PairF where
     fmap f (Pair e) = Pair $ fmap (second f) e
 
 cartesian :: [Int] -> [Pair] -> [Pair]
-cartesian xs ys = [Fix $ Pair $ Just (x, y) | x <- xs, y <- ys]
+cartesian xs ys = [Fix $` Pair `$ Just (x, y) | x <- xs, y <- ys]
 
 pairAlg :: PairF [Int] -> [Int]
 pairAlg (Pair m) = case m of
@@ -56,7 +56,7 @@ pairAlg (Pair m) = case m of
                         Just (x, xs) -> x:xs
 
 bb :: [Int] -> [[Int]]
-bb xs = map (cata pairAlg) $ foldr cartesian [Fix $ Pair Nothing] $ map (\x -> [0..x]) xs
+bb xs = map (cata pairAlg) $` foldr cartesian [Fix `$ Pair Nothing] $ map (\x -> [0..x]) xs
 ```
 
 ## Test

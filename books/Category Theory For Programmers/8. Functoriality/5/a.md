@@ -13,7 +13,7 @@ class Pair<A, B> implements Bifunctor<A, B>{
         return new Pair(f(this.a), g(this.b))
     }
     greet() {
-        return `${this.a}:${typeof this.a} ${this.b}:${typeof this.b}`
+        return `$`{this.a}:`${typeof this.a} $`{this.b}:`${typeof this.b}`
     }
 }
 let p1 = new Pair<number, boolean>(3, true)

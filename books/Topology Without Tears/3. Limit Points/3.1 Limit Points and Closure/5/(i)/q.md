@@ -1,1 +1,1 @@
-If $p$ is a limit point of the set $S$, verify that $p$ is also a limit point of the set $T$.
+If $`p`$ is a limit point of the set $`S`$, verify that $`p`$ is also a limit point of the set $`T`$.

@@ -51,7 +51,7 @@ import Data.Fix
 
 main :: IO ()
 main = do
-    print $ cata alg $ Fix (RAdd (Fix ROne) (Fix ROne))
+    print $` cata alg `$ Fix (RAdd (Fix ROne) (Fix ROne))
 ```
 
 ## Result

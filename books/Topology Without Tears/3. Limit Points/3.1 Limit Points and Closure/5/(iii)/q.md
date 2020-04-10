@@ -1,1 +1,1 @@
-Hence show that if $S$ is dense in $X$, then $T$ is dense in $X$.
+Hence show that if $`S`$ is dense in $`X`$, then $`T`$ is dense in $`X`$.

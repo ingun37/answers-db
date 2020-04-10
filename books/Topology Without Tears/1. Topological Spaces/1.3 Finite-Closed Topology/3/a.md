@@ -4,7 +4,7 @@
 
 (ii) an indiscrete space with at least two points;
 
-> No. Only $\emptyset$ and $X$ is closed in indiscrete space.
+> No. Only $`\emptyset`$ and $`X`$ is closed in indiscrete space.
 
 (iii) an infinite set with the finite-closed topology.
 
@@ -12,7 +12,7 @@
 
 (iv) Example 1.1.2;
 
-> No. It has no $\{b\}$ as open set. (or any other element except $a$)
+> No. It has no $`\{b\}`$ as open set. (or any other element except $`a`$)
 
 (v) Example 1.1 #5 (i)
 

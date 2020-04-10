@@ -1,1 +1,1 @@
-Generalize the previous construction to polynomials of many independent variables, like $x^2y-3y^3z$.
+Generalize the previous construction to polynomials of many independent variables, like $`x^2y-3y^3z`$.

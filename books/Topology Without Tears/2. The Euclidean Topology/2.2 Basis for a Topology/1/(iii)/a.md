@@ -1,1 +1,1 @@
-Because by definition of topology $D$ is union of open sets ($R$s).
+Because by definition of topology $`D`$ is union of open sets ($`R`$s).
