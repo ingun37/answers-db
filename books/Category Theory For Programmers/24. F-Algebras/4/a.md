@@ -26,7 +26,7 @@ import Data.Fix
 
 main :: IO ()
 main = do
-    print $` take 5 `$ toListC $ ana coalg 1
+    print $ take 5 $ toListC $ ana coalg 1
 ```
 ## Result
 ```shell

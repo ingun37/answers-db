@@ -48,7 +48,7 @@ instance Functor PairF where
     fmap f (Pair e) = Pair $ fmap (second f) e
 
 cartesian :: [Int] -> [Pair] -> [Pair]
-cartesian xs ys = [Fix $` Pair `$ Just (x, y) | x <- xs, y <- ys]
+cartesian xs ys = [Fix $ Pair $ Just (x, y) | x <- xs, y <- ys]
 
 pairAlg :: PairF [Int] -> [Int]
 pairAlg (Pair m) = case m of
@@ -56,7 +56,7 @@ pairAlg (Pair m) = case m of
                         Just (x, xs) -> x:xs
 
 bb :: [Int] -> [[Int]]
-bb xs = map (cata pairAlg) $` foldr cartesian [Fix `$ Pair Nothing] $ map (\x -> [0..x]) xs
+bb xs = map (cata pairAlg) $ foldr cartesian [Fix $ Pair Nothing] $ map (\x -> [0..x]) xs
 ```
 
 ## Test

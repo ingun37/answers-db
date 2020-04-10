@@ -35,7 +35,7 @@ matalg (RMul x y) = multStd x y
 ```haskell
 main :: IO ()
 main = do
-    print $` cata matalg `$ Fix (RAdd (Fix ROne) (Fix ROne))
+    print $ cata matalg $ Fix (RAdd (Fix ROne) (Fix ROne))
 ```
 
 ## Result
