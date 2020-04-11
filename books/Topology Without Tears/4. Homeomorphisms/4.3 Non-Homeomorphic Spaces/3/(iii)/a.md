@@ -1,0 +1,1 @@
+Suppose $`X`$ and $`[0,1)`$ were homeomorphic. Then $`[0,1) \backslash \{p\}`$ for any $`p \in (0,1)`$, which is anything except 0, is homeomorphic to $`X \backslash a`$. $`[0,1) \backslash \{p\}`$ is not connected which is contradiction.

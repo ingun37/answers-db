@@ -1,0 +1,5 @@
+Suppose $`X`$ and $`(1,0)`$ were homeomorphic. Then $`X \backslash \{ \lang 1,0 \rang \}`$ is homemomorphic to $`(0,1) \backslash \{p\}`$ for some $`p`$ such that $`f^{-1}(\lang 1,0 \rang) = p \in (0,1)`$. That means, by (i), $`X \backslash \{ \lang 1,0 \rang \}`$, $`(0,1)`$, and $`(0,1) \backslash \{p\}`$ are all homeomorphic which is contradiction.
+
+1. For any point $`a \in X`$, $`X \backslash a`$ is homeomorphic to $`X \backslash \{ \lang 1,0 \rang \}`$ because a linear rotation matrix can be the homeomorphism between them.
+
+Suppose $`X`$ and $`[1,0]`$ were homeomorphic. Then by the statement (1) $`[1,0] \backslash \{p\}`$ for any $`p \in [0,1]`$ is homeomorphic to $`X \backslash a`$ for some $`a \in X`$, which means $`[1,0] \backslash \{p\}`$ is homeomorphic to $`(0,1)`$ which is contradiction by corollary 4.3.7.
