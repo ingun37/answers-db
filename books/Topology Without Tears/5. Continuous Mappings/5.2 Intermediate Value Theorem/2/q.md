@@ -1,0 +1,1 @@
+Let $`f`$ be a continuous mapping of the interval $`[a,b]`$ into itself, where $`a`$ and $`b \in \mathbb{R}`$ and $`a < b`$. Prove that there is a fixed point.
