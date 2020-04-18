@@ -1,0 +1,1 @@
+I roll a die $`n`$ times, $`n \in \mathbb{N}`$. Find the probability that numbers 1 and 6 are are both observed at least once.
