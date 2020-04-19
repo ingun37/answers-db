@@ -1,0 +1,1 @@
+A box contains two coins: a regular coin and one fake two-headed coin (P(H)=1). I choose a coin at random and toss it $`n`$ times. If the first $`n`$ coin tosses result in heads, what is the probability that the $`(n+1)^{th}`$ coin toss will also result in heads?
