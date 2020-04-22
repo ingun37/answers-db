@@ -1,0 +1,1 @@
+Let $`X \sim Binomial(50,0.5)`$ and $`F_X`$ the CDF of $`X`$ then the answer is $`1 - \text{F}_X(30)`$. I think it needs computation.

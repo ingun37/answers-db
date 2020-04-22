@@ -1,0 +1,1 @@
+50 students live in a dormitory. The parking lot has the capacity for 30 cars. If each student has a car with probability $`1 \over 2`$ (independently from other students), what is the probability that there won't be enough parking spaces for all the cars?
