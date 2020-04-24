@@ -1,0 +1,1 @@
+The 52 cards in a shuffled deck are dealt equally among four players, call them A, B, C, and D. If A and B have exactly 7 spades, what is the probability that C has exactly 4 spades?
