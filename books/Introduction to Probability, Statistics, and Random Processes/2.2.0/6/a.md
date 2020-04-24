@@ -20,8 +20,7 @@ import Data.List.Split
 problem6 :: IO ()
 problem6 = do
     let sampleSize = 999999
-    let seeds = range (0, sampleSize)
-    let decks = map deal4 seeds
+    let decks = take sampleSize $ map deal4 [0..]
     let conditionEvents = filter abHave7Spades decks
     let conditionEventSize = length conditionEvents
     let events = filter cHas4Spades conditionEvents

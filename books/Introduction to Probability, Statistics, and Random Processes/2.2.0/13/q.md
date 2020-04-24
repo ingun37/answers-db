@@ -1,0 +1,1 @@
+There are two coins in a bag. For Coin 1, $`P(H)=\frac{1}{2}`$ and for Coin 2, $`P(H)=\frac{1}{3}`$. Your friend chooses one of the coins at random and tosses it 5 times.

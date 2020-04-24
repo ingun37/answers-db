@@ -12,7 +12,7 @@ For (b)
 
 ## Footnotes
 
-I was in disbelief with the result so I made a validating program to test with 999999 samples.
+I was in disbelief with the result so I made a validating program to test.
 
 ```haskell
 module Lib
@@ -27,8 +27,7 @@ import Data.Set hiding (map, take, filter)
 someFunc :: IO ()
 someFunc = do
     let sampleSize = 999999
-    let seeds = range (0, sampleSize)
-    let samples = map (pickRandoms 5) seeds
+    let samples = take sampleSize $ map (pickRandoms 5) [0..]
     let eventSize1 = length $ filter hasOnly1Ace samples
     print $ fromRational $ (toInteger eventSize1) % (toInteger sampleSize)
     let eventSize2 = length $ filter hasAtLeast1Ace samples

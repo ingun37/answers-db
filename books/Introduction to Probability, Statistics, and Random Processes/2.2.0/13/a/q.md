@@ -1,0 +1,1 @@
+What is the probability of observing at least 3 heads?
