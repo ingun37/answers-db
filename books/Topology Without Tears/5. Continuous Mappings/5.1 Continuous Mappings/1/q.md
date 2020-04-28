@@ -1,0 +1,2 @@
+(i) Let $`f:(X,\mathcal{T}) \rightarrow (Y, \tau_1)`$ be a constant function. Show that $`f`$ is continuous.  
+(ii) Let $`f:(X,\mathcal{T}) \rightarrow (X,\mathcal{T})`$ be the identity function. Show that $`f`$ is continuous.
