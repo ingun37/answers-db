@@ -1,0 +1,1 @@
+Let $`f:(X,\mathcal{T}) \rightarrow (X,\mathcal{T})`$ be the identity function. Show that $`f`$ is continuous.

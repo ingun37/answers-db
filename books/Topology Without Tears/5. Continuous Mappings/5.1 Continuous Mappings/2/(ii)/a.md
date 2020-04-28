@@ -1,0 +1,1 @@
+The closed set $`f^{-1}`$ is $`(0, \infin)`$ which is open. Hence not continuous.

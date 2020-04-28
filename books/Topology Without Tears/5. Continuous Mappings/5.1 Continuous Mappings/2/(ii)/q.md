@@ -1,0 +1,1 @@
+Find $`f^{-1}\{1\}`$ and, using Proposition 5v1v9, deduce that $`f`$ is not continuous.
