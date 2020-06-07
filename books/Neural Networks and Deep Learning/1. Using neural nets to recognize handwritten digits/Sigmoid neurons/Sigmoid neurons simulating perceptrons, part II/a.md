@@ -14,7 +14,7 @@ For sigmoid neurons however,
 \end{aligned}
 ```
 
-which is exactly same as perceptron.
+which is exactly the definition of perceptron.
 
 If $`w \cdot x + b = 0`$ then
 
@@ -22,4 +22,4 @@ If $`w \cdot x + b = 0`$ then
 \frac{1}{1+e^{-0c}} = \frac{1}{1+1} = {1 \over 2}
 ```
 
-which is not a possible outcome of perceptron network.
+which is not a possible outcome of perceptron.
