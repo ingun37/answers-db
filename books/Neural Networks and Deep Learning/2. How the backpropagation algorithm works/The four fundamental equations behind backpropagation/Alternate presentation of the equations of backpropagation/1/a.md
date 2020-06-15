@@ -1,3 +1,5 @@
+We can either prove it by using properties of diagonal matrices or using the chain rule of gradient. Former one is rather mundane so I'll go with latter one.
+
 $`\delta_l`$ is gradient of $`C`$ in terms of $`z_l`$, namely
 
 ```math
@@ -10,7 +12,7 @@ Since $`a_l = \sigma(z_l)`$, we can apply chain rule with Jacobian matrix.
 \nabla_{z_l} C = {J_\sigma (z_l)}^\intercal \nabla_{a_l} C 
 ```
 
-When the function is element-wise operation the Jacobian matrix becomes a diagonal matrix. $`\sigma`$ is elementwise function therefore the Jacobian matrix becomes exactly the matrix that was given in the problem.
+When the function is element-wise operation the Jacobian matrix becomes a diagonal matrix. $`\sigma`$ is elementwise function therefore the Jacobian matrix becomes exactly the matrix that was given in the question.
 
 ```math
 = {\Sigma' (z_l)}^\intercal \nabla_{a_l} C 
