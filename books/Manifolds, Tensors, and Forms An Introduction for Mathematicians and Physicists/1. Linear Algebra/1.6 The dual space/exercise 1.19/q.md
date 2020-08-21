@@ -1,0 +1,1 @@
+Show that $`\{\theta_j\}`$ is indeed a basis for $`V^*`$
