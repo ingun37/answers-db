@@ -6,7 +6,7 @@ P(B \leq \dfrac{1}{4A})
 
 It will be like getting the area of this:
 
-![](assets/IMG_8B7297218699-1.jpeg)
+![](IMG_8B7297218699-1.jpeg)
 
 So
 

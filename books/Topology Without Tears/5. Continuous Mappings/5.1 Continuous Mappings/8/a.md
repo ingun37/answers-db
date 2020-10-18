@@ -4,11 +4,11 @@ Let's define $`x \in X`$ and $`U \in \mathcal{T}_Y`$ such that $`f(x) \in U`$. B
 
 If for any $`x \in A`$ and any B-induced open set $`U_B \in \mathcal{T}_B`$, which must imply existance of $`U \in \mathcal{T}_Y`$, such that $`g(x) \in U_B`$,
 
-![](assets/IMG_44AF9D4BED6C-1.jpeg)
+![](IMG_44AF9D4BED6C-1.jpeg)
 
 ...there exists an A-induced open set $`V_A`$, which must imply existance of $`V \in \mathcal{T}_A`$, such that the image $`gV_A`$ satisfies $`g(x) \in gV_A \subseteq U_B`$, then $`g`$ must be continuous. What we have to know is that if the image $`gV_A`$is subset of  $`U_B`$, in other words, every $`x \in V_A`$ will satisfiy $`g(x) \in U_B`$. Let's proove it.
 
-![](assets/IMG_E7FB922B8E70-1.jpeg)
+![](IMG_E7FB922B8E70-1.jpeg)
 
 ```math
 \begin{aligned}

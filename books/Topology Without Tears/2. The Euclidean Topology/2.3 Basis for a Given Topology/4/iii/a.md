@@ -26,4 +26,4 @@ So $` \tau_{1} `$ and $` \tau_{2}`$ is not same
 
 following image summarizes
 
-![](assets/img/img.jpg)
+![](img.jpg)

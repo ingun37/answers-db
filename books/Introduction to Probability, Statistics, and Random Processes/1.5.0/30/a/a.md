@@ -12,8 +12,8 @@ It's easier for an equation with absolute values to express in a piecewise funct
 
 Putting $`A`$ onto the x-y plane:
 
-![](assets/IMG_FBA6405D2C50-1.jpeg)
+![](IMG_FBA6405D2C50-1.jpeg)
 
 Putting $`B`$ onto the x-y plane:
 
-![](assets/IMG_9E3C3EEA3B9F-1.jpeg)
+![](IMG_9E3C3EEA3B9F-1.jpeg)

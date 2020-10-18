@@ -13,7 +13,7 @@ $`\beta :G\rightarrow G_{2}`$
 $`\beta ':G_{2}\rightarrow G_{3}`$
 
 
-![](assets/img/nat.JPG)
+![](nat.JPG)
 
 Let's see what we get with first one.
 

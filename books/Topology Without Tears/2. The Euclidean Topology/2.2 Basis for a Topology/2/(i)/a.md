@@ -12,7 +12,7 @@ $`r=r_{1}-\left| c_{1}-c\right|`$
 Let $`p`$ be any point in the small disc $`D_{\langle a,b \rangle}`$.  
 Checkout the visual representation so far.
 
-![](assets/IMG_CE178B00DC15-1.jpeg)
+![](IMG_CE178B00DC15-1.jpeg)
 
 First let's proove that $`p`$ is inside of $`D_1`$.  
 Triangle inequality of $`c1, p, c`$ says

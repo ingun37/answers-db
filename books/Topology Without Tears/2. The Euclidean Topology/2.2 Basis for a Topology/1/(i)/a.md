@@ -15,7 +15,7 @@ $`\rightarrow \left( x-a\right) ^{2}+\left( y-b\right) ^{2} <2\left( \dfrac{1-r}
 
 Visual representation would roughly be like this
 
-![](assets/IMG_C677AA5E5D25-1.jpeg)
+![](IMG_C677AA5E5D25-1.jpeg)
 
 This is triangle inequality from triangle of $`\langle x,y \rangle, \langle a,b \rangle, \langle 0,0 \rangle`$
 
