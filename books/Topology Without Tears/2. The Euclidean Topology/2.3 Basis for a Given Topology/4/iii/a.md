@@ -25,5 +25,3 @@ $` d\left( 0,f_{n}\right) =\sup _{x\in \left[ 0,1\right] }\left| f_{n}-0\right| 
 So $` \tau_{1} `$ and $` \tau_{2}`$ is not same
 
 following image summarizes
-
-![](img.jpg)
