@@ -1,0 +1,1 @@
+Counter example $`f^{-1}((0,2)) = (0,1]`$, which is not an open set, exists therefore $`f`$ is not continuous.
