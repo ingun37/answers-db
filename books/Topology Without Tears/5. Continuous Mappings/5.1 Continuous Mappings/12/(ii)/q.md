@@ -1,0 +1,1 @@
+$`(Y,\tau_1)`$ a T1-space implies $`(X,\tau)`$ is a T1-space.

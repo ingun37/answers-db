@@ -1,0 +1,1 @@
+$`(Y,\tau_1)`$ Housdorff implies $`(X,\tau)`$ Hausdorff.
