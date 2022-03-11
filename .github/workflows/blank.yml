@@ -32,4 +32,4 @@ jobs:
           name: inguncache
           authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
       - run: nix-build https://github.com/ingun37/answers-script/archive/master.tar.gz
-      - run: nix-shell --run "answers-script-exe"
+      - run: nix-shell "https://github.com/ingun37/answers-script/archive/master.tar.gz" --run "answers-script-exe"
