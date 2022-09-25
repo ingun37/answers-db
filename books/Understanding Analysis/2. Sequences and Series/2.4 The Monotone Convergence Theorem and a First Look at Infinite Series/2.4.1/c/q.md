@@ -1,0 +1,1 @@
+Take the limit of each side of the recursive equation in part (a) to explicitly compute $`\lim x_n`$.
