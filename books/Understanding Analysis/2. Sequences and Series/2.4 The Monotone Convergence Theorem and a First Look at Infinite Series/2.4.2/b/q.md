@@ -1,0 +1,1 @@
+This time set $`y_1 = 1`$ and $`y_{n+1} = 3 - \frac 1 {y_n}`$. Can the strategy in $`(a)`$ be applied to compute the limit of this sequence?
