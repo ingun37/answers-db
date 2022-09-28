@@ -1,0 +1,1 @@
+$`\mathbf{N}`$ is sequence. Suppose $`\mathbf{N}`$ is upper bounded. Then by Monotone Convergence Theorem the least upper bound must exist. Let the supermum be $`\alpha`$. There exists $`n\in \mathbf{N}`$ such that $`\alpha -1 < n`$, which means $`\alpha < n + 1`$ and $`n+1`$ is a natural number bigger than $`\alpha`$, the supermum, which is contradiction.
