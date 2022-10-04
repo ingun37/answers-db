@@ -1,0 +1,1 @@
+Complete the proof of Theorem 2.4.6 by showing that if the series $`\sum_{n=0}^\infin 2^nb_{2^n}`$ diverges, then so does $`\sum_{n=1}^\infin b_n`$. Example 2.4.5 may be a useful reference.

@@ -1,0 +1,1 @@
+Decreasing without bound means it goes below 0. Under the 0 smaller means further from 0. It means the original sequences is always further from 0 than the diverging sequence hence diverge.
