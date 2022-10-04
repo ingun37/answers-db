@@ -1,0 +1,1 @@
+Prove that $` \lim \inf a_n \leq \lim \sup a_n `$ for every bounded sequence, and give an example of a sequence for which the inequality is strict.

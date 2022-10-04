@@ -1,0 +1,1 @@
+$`(y_n)`$ decreases. It's bounded too. Hence  converges.
