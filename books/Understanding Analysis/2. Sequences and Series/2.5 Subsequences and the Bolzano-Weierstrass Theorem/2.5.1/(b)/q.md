@@ -1,0 +1,1 @@
+A sequence that does not contain 0 or 1 as a term but contains subsequences converging to each of these values.
