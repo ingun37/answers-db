@@ -1,0 +1,1 @@
+Algebra is not defined on non-limits. The example from section 2.1 wasn't a limit.
