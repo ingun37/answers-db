@@ -1,0 +1,1 @@
+Assume $`(a_n)`$ is a bounded sequence with the property that every convergent subsequence of $`(a_n)`$ converges to the same limit $`a \in \mathbf{R}`$. Show that $`(a_n)`$ must converge to $`a`$.

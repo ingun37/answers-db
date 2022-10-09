@@ -1,0 +1,1 @@
+Another way to prove the Bolzano-Weierstrass Theorem is to show that every sequence contains a monotone subsequence. A useful device in this endeavor is the notion of a *peak term*. Given a sequence $`(x_n)`$, a particular term $`x_m`$ is a peak term if no later term is the sequence exceeds it; ie.e, if $`x_m \geq x_n`$ for all $`n \geq m`$.
