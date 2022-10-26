@@ -1,0 +1,1 @@
+Give an example of each or explain why the request is impossible referencing the proper theorem(s).
