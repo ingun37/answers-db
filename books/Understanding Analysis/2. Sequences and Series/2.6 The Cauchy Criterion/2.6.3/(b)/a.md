@@ -1,20 +1,42 @@
-Given $`\epsilon`$, there exits $`N`$ such that for all $`n`$ and $`m`$ that are bigger than $`N`$, e.i., $`N < m,n`$, following holds
+Given an $` \epsilon > 0`$, there exists an $` N `$ such that
 
 ```math
-|x_n - x_m| = \epsilon_x < \epsilon \\
-|y_n - y_m| = \epsilon_y < \epsilon
+|x_n - x_m| < \epsilon \\
+|y_n - y_m| < \epsilon
 ```
+for all $`n > m \geq N`$.
+
+Let $`\epsilon_x = x_n - x_m`$ and $`\epsilon_y = y_n - y_m`$.
 
 Then
 
 ```math
 \begin{aligned}
-& | x_ny_n - x_my_m | \\
-& = | x_my_m - x_ny_n | \\
-& = |(x_n+\epsilon_x)(y_n+\epsilon_y) - x_ny_n| \\
-& = | \epsilon_xy_n + x_n\epsilon_y + \epsilon_x\epsilon_y | \\
-& \leq | \epsilon_xy_n | + | x_n\epsilon_y | + |\epsilon_x\epsilon_y | \\
-& \leq | \epsilon y_n | + | x_n\epsilon | + |\epsilon^2 |
+&
+| x_ny_n - x_my_m |
+\\
+& = 
+| (x_m + \epsilon_x)(y_m + \epsilon_y) - x_my_m | 
+\\
+& = 
+| x_my_m + \epsilon_xy_m + x_m\epsilon_y + \epsilon_x\epsilon_y - x_my_m| 
+\\
+& = 
+| \epsilon_xy_m + x_m\epsilon_y + \epsilon_x\epsilon_y | 
+\\
+& \leq
+| \epsilon_xy_m | + | x_m\epsilon_y | + | \epsilon_x\epsilon_y | 
+\\
+\end{aligned}
+```
+
+Since $` |\epsilon_x| < |\epsilon| `$ and $` |\epsilon_y| < |\epsilon| `$
+
+```math
+\begin{aligned}
+& \leq
+| \epsilon y_m | + | x_m\epsilon | + \epsilon^2
+\\
 \end{aligned}
 ```
 
@@ -27,4 +49,4 @@ Cauchy sequence is bounded. Say bound of $`(y_n)`$ is $`Y`$ and $`(x_n)`$'s $`X`
 \end{aligned}
 ```
 
-The last equation can yield to any real number.
+The last equation can be any real number.
