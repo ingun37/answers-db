@@ -49,4 +49,4 @@ Cauchy sequence is bounded. Say bound of $`(y_n)`$ is $`Y`$ and $`(x_n)`$'s $`X`
 \end{aligned}
 ```
 
-The last equation can be any real number.
+The last equation can be any real number. Therefore $`(x_ny_n)`$ is Cauchy sequence.
