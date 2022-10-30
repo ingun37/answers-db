@@ -1,0 +1,1 @@
+The $` -s_{0} y_1 `$ part is skipped because $` s_0 `$ is 0.
