@@ -1,0 +1,1 @@
+Supply another proof for this result using the Nested Interval Property (Theorem 1.4.1).
