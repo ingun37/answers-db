@@ -1,0 +1,1 @@
+Consider the subsequences $`(s_{2n})`$ and $`(s_{2n+1})`$, and show ho the Monotone Convergence Theorem leads to a third proof for the Alternating Series Test.
