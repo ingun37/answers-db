@@ -1,17 +1,19 @@
+It goes like up-and-down, up-and-down, ... forever. I'll first proove that the Nth up-and-down is a superset of the next up-and-down.
+
 ```math
 \begin{align}
 \begin{split}
-a_{2n+1} > a_{2n+2} &\implies 0 > - a_{2n+1}  + a_{2n+2}  \\
-&\implies S_{2n} > S_{2n} - a_{2n+1}  + a_{2n+2} \\
-&\implies S_{2n} > S_{2n+2}
-\end{split} \\
-
+a_{2n+1} > a_{2n+2}
+& \implies 0 > - a_{2n+1}  + a_{2n+2}  \\
+& \implies S_{2n} > S_{2n} - a_{2n+1}  + a_{2n+2} \\
+& \implies S_{2n} > S_{2n+2}
+\end{split} \\ 
 \begin{split}
-a_{2n+2} > a_{2n+3} &\implies a_{2n+2} - a_{2n+3} > 0  \\
-&\implies  S_{2n+1} + a_{2n+2}  - a_{2n+3} > S_{2n+1} \\
-&\implies S_{2n+3} > S_{2n+1}
+a_{2n+2} > a_{2n+3}
+& \implies a_{2n+2} - a_{2n+3} > 0  \\
+& \implies  S_{2n+1} + a_{2n+2}  - a_{2n+3} > S_{2n+1} \\
+& \implies S_{2n+3} > S_{2n+1}
 \end{split} \\
-
 \end{align}
 ```
 
