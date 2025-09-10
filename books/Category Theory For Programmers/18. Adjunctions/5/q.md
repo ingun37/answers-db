@@ -1,1 +1,0 @@
-Show that the coproduct is the left adjoint of the diagonal functor.

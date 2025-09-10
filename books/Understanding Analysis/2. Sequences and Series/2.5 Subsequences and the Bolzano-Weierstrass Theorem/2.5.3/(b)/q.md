@@ -1,1 +1,0 @@
-COmpare this results to the example discussed at the end of Section 2.1 where infinite addition was shown not to be associative. Why doesn't our proof in (a) apply to this example?

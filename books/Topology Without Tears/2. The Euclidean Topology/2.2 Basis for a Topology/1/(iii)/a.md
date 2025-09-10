@@ -1,1 +1,0 @@
-Because by definition of topology $`D`$ is union of open sets ($`R`$s).

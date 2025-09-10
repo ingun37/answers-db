@@ -1,1 +1,0 @@
-Using mathematical induction prove that if a finite set $`X`$ has $`n \in \mathbb{N}`$ points, then it has at least $`(n-1)!`$ distinct topologies.

@@ -1,1 +1,0 @@
-Prove that a continuous image of a path-connected space is path-connected.

@@ -1,1 +1,0 @@
-Show that $` \lim \inf a_n \leq \lim \sup a_n `$ if and only if $` \lim a_n `$ exists. In this case, all three share the same value.

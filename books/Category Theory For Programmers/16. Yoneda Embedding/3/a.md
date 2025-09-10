@@ -1,1 +1,0 @@
-Monoid is a category with only one object. So there can be only one functor `C(x, -)`. And a natural transformations $`\alpha`$ that corresponds to a monoid morphism `m` would be just composition of $`f \in C(x, -)`$ with `m`. I don't know if it means other than just plain definition of monoid as it appears. If you know please contribute.

@@ -1,1 +1,0 @@
-Deduce from (i) that $`\overline{S} \subseteq \overline{T}`$.

@@ -1,1 +1,0 @@
-Let $`(X,\tau)`$ and $`(Y,\tau_1)`$ be topological spaces and $`f:(X,\tau) \rightarrow (Y,\tau_1)`$ a continuous map. If $`f`$ is one-to-one, prove that

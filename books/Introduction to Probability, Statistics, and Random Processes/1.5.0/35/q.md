@@ -1,1 +1,0 @@
-You and I play the following game: I toss a coin repeatedly. The coin is unfair and $`P(H)=p`$. The game ends the first time that two consecutive heads (HH) or two consecutive tails (TT) are observed. I win if (HH) is observed and you win if (TT) is observed. Given that I won the game, find the probability that the first coin toss resulted in head?

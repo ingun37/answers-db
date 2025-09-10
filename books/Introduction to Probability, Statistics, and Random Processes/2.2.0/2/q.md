@@ -1,1 +1,0 @@
-Eight committee members are meeting in a room that has twelve chairs. In how many ways can they sit in the chairs?

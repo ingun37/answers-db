@@ -1,1 +1,0 @@
-Deduce that $`X \ncong (0,1)`$ and $`X \ncong [0,1]`$.

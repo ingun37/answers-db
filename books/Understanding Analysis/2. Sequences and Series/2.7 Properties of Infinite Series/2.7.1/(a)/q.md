@@ -1,1 +1,0 @@
-Prove the Alternating Series Test by showing that $`(s_n)`$ is a Cauchy sequence.

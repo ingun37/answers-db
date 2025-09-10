@@ -1,1 +1,0 @@
-Show that the bijection we established between `fromY` and `btoa` is an isomorphism (the two mappings are the inverse of each other).

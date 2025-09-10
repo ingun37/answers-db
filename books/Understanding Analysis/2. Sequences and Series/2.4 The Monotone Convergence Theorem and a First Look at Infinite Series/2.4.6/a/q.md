@@ -1,1 +1,0 @@
-Explain why $`\sqrt{xy} \leq (x+y)/2`$ for any two positive real numbers $`x`$ and $`y`$. (The geometric mean is always less than the arithmetic mean.)

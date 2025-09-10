@@ -1,1 +1,0 @@
-A divergent monotone sequence with a Cauchy subsequence.

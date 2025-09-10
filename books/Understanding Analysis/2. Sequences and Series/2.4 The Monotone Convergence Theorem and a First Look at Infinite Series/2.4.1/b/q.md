@@ -1,1 +1,0 @@
-Now that we know $`\lim x_n`$ exists, explan why $`\lim x_{n+1}`$ must also exist and equal the same value.

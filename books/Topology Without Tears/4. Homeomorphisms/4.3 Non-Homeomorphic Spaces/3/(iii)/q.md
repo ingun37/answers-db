@@ -1,1 +1,0 @@
-Observing that for every point $`a \in X`$, the subspace $`X \backslash \{a\}`$ is connected, show that $`X \ncong [0, 1)`$.

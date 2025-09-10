@@ -1,1 +1,0 @@
-Composition between continuous morphisms are continuous.

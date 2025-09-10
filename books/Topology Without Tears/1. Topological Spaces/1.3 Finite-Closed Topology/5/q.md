@@ -1,1 +1,0 @@
-A topological space $`(X,\tau)`$ is said to be a $`T_0`$-space if for each pair of distinct points $`a,b`$ in $`X`$, either there exists an open set containing $`a`$ and not $`b`$, or there exists an open set containing $`b`$ and not $`a`$.

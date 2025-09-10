@@ -1,1 +1,0 @@
-In Section 1.4 we used the Axiom of Completeness (AoC) to prove the Archimedean Property of $`\mathbf{R}`$ (Theorem 1.4.2). Show that the Monotone Convergence Theorem can also be used to prove the Archimedean Property without making any use of AoC.

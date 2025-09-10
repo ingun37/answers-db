@@ -1,1 +1,0 @@
-Number of powerset of $`\aleph`$ is $`2^{\aleph}`$. For any set $`x`$ from the powerset can make a unique topology namely $`\{\emptyset, x, X\}`$. Hence there are at least $`2^{\aleph}`$ topologies. $`2^{\aleph}`$. Powerset of infinite set is uncountable.(Proven in Appendix). Hence every infinite set has an uncountable number of distinct topologies on it.

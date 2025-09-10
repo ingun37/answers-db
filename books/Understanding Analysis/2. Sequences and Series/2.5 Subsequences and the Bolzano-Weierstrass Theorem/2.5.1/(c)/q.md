@@ -1,1 +1,0 @@
-A sequence that contains subsequences converging to every point in the infinite set $`\{ 1,1/2,1/3,1/4,1/5,\dots \}`$.

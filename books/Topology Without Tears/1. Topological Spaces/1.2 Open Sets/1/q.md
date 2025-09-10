@@ -1,1 +1,0 @@
-List all 64 subsets of the set X in Example 1.1.2. Write down, next to each set, whether it is (i) clopen; (ii) neither open or closed; (iii) open but not closed; (iv) closed but not open.

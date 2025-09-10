@@ -1,1 +1,0 @@
-Use the Comparison Test to argue that $` \sum_{k=1}^\infin s_k (y_k - y_{k+1}) `$ converges absolutely, and show how this leads directly to a proof of Abel's Test.

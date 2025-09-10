@@ -1,1 +1,0 @@
-Implement the algebra for the ring of 2x2 matrices.

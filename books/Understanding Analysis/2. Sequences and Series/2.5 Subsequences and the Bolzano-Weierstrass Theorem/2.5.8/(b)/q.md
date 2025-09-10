@@ -1,1 +1,0 @@
-Show that every sequence contains a monotone subsequence and explain how this furnishes a new proof of the Bolzano-Weierstrass Theorem.

@@ -1,1 +1,0 @@
-Do the same for the product $`(x_ny_n)`$.

@@ -1,1 +1,0 @@
-Let $`X=\{ a,b,c,d,e,f \}`$. Determine whether or not each of the following collections of subsets of X is a topology on $`X`$:

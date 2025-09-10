@@ -1,1 +1,0 @@
-Find examples of sequences with zero, one, and two peak terms. Find an example of a sequence with infinitely many peak terms that is not monotone.

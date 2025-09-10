@@ -1,1 +1,0 @@
-Let $`U \subset \mathbb{R}`$ an open set that contains 0. $`f`$ is continuous therefore $`V = f^{-1}U`$ must be an open set.  $`V`$ also must contain all the rational numbers. The open set that contains all the rational numbers is $`\mathbb{R}`$. Therefore for every $`x \in \mathbb{R}`$, $`f(x) = 0`$.

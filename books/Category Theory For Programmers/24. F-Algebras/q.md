@@ -1,1 +1,0 @@
-Sample project available here [github](https://github.com/ingun37/f-algebra-challenges) 

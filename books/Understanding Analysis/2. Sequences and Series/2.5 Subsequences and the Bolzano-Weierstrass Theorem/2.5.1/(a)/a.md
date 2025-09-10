@@ -1,1 +1,0 @@
-Impossible. Subsequence that is bounded must have a sub-subsequence that converges.

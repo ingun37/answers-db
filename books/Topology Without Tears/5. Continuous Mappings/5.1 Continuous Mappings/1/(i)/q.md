@@ -1,1 +1,0 @@
-Let $`f:(X,\mathcal{T}) \rightarrow (Y, \tau_1)`$ be a constant function. Show that $`f`$ is continuous.

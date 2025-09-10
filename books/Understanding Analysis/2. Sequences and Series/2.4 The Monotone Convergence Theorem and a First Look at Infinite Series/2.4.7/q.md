@@ -1,1 +1,0 @@
-Let $`(a_n)`$ be a bounded sequence.

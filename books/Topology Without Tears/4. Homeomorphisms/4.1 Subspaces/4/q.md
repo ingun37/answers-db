@@ -1,1 +1,0 @@
-Let $`A \subseteq B \subseteq X`$ and $`X`$ have the topology $`\tau`$. Let $`\tau_B`$ be the subspace topology on $`B`$. Further let $`\tau_1`$ be the topology induced on $`A`$ by $`\tau`$, and $`\tau_2`$ be the topology induced on $`A`$ by $`\tau_B`$. Prove that $`\tau_1 = \tau_2`$.

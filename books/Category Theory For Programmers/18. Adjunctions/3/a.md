@@ -1,3 +1,0 @@
-So far we have derived unit and counit from hom-sets isomorphism and injectivity $`C(Ld,c) \rightarrow D(d,Rc)`$ from unit and counit. The only thing left to proove the equivalence is injectivity in the other way.  
-In the book we derived injection $`C(Ld,c) \rightarrow D(d,Rc)`$ by lifting $`f:Ld \rightarrow c`$ with $`R`$. In the same way we can derive the other way injection $`D(d,Rc) \rightarrow C(Ld,c)`$ by lifting $`g:d \rightarrow Rc`$ with $`L`$.  
-Lifted $`Lg`$ can be composed with unit $`\eta`$ and make a morphism $`Lg \cdot \eta: Ld \rightarrow c`$.

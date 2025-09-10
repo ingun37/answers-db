@@ -1,1 +1,0 @@
-A sequence that has a subsequence that is bounded but contains no subsequence that converges.

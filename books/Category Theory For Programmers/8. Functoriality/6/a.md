@@ -1,1 +1,0 @@
-A function type `Key -> T` would be a profunctor. But `std::map<Key, T>` is not a function. It's very similar though. If only we could set a default value for unknown key in `std::map` (currently it's not supported). But it's not hard to define a new data structure works that way. One way would be overriding the operator `[]` and make it return a default value of `T`.

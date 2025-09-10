@@ -1,1 +1,0 @@
-I explained gradient descent when $`C`$ is a function of two variables, and when it's a function of more than two variables. What happens when $`C`$ is a function of just one variable? Can you provide a geometric interpretation of what gradient descent is doing in the one-dimensional case?

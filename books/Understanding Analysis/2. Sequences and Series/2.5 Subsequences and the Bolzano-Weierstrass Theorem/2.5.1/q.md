@@ -1,1 +1,0 @@
-Give an example of each of the following, or argue that such a request is impossible

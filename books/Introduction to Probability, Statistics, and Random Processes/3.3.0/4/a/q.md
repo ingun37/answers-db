@@ -1,1 +1,0 @@
-Find $`P(X\leq 2 \textrm{  and   } Y\leq 2)`$.

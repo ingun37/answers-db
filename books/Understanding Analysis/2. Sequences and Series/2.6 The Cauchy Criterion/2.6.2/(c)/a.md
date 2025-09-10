@@ -1,1 +1,0 @@
-Impossible. Divergent monotone's subsequences are always divergent monotone subsequence.

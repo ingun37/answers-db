@@ -1,1 +1,0 @@
-Define at least two different natural transformations between `Reader ()` and the list functor. How many different lists of `()` are there?

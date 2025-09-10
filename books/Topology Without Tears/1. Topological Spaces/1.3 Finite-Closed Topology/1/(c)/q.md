@@ -1,1 +1,0 @@
-Find (concrete) sets $`A_1, A_2, X`$ and $`Y`$ and a functiom $`f:X \rightarrow Y`$ such that $`f(A_1 \cap A_2) \neq f(A_1) \cap f(A_2)`$ where $`A_1 \subseteq X`$ and $`A_2 \subseteq X`$.

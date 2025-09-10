@@ -1,1 +1,0 @@
-If $`(x_n)`$ is bounded and diverges, then there exist two subsequences of $` ( x_n) `$ that converge to different limits.

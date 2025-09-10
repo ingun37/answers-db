@@ -1,1 +1,0 @@
-Now that we have proved the basic facts about geometric series, supply a proof for Corollary 2.4.7.

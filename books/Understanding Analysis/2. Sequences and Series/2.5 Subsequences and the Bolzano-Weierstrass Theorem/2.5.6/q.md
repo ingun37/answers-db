@@ -1,1 +1,0 @@
-Use a similar strategy to the one in Example 2.5.3 to show $` \lim b^{1/n} `$ exists for all $` b \geq 0 `$ and find the value of the limit. (The results in Exercise 2.3.1 may be assumed.)

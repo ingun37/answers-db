@@ -1,1 +1,0 @@
-Impossible. Cauchy sequence is convergent sequence, and convergent sequence can't have unbounded subsequence.

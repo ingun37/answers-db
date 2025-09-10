@@ -1,1 +1,0 @@
-Modify the sequence $`(x_n)`$ so that it converges to $`\sqrt c`$.

@@ -1,1 +1,0 @@
-Show that $`x_n^2`$ is always greater than or equal to 2, and then use this to prove that $`x_n - x_{n+1} \geq 0`$. Conclude that $`\lim x_n = \sqrt 2`$.

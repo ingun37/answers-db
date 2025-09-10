@@ -1,1 +1,0 @@
-True. In the proof for The Bolzano-Weierstrass Theorem, everytime they bisect an interval if it's only either of A or B that has infinite terms then it must mean the whole sequences converges. Therefore there must be more than 1 sub-intervals (subsequence) that contains infinite terms.

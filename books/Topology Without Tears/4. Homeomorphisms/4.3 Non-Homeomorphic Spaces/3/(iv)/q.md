@@ -1,1 +1,0 @@
-Deduce that $`X`$ is not homeomorphic to any interval.

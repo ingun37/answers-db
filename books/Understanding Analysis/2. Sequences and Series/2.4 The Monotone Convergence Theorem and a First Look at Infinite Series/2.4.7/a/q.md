@@ -1,1 +1,0 @@
-Prove that the sequence defined by $`y_n = \sup\{ a_k : k \geq n \}`$ converges.

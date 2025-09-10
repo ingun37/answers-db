@@ -1,1 +1,0 @@
-In a factory there are 100 units of a certain product, 5 of which are defective. We pick three units from the 100 units at random. What is the probability that exactly one of them is defective?

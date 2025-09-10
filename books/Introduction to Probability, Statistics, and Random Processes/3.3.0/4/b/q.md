@@ -1,1 +1,0 @@
-Find $`P(X > 2 \textrm{  or   } Y > 2)`$.

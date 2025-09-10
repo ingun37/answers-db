@@ -1,1 +1,0 @@
-Prove Equations (BP3) and (BP4).

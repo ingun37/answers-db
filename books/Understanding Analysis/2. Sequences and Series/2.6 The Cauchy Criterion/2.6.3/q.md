@@ -1,1 +1,0 @@
-If $`(x_n)`$ and $`(y_n)`$ are Cauchy sequences, then one easy way to prove that $`(x_n + y_n)`$ is Cauchy is to use the Cauchy Criterion. By Theorem 2.6.4, $`(x_n)`$ and $`(y_n)`$ must be convergent, and the Algebraic Limit Theorem then implies $`(x_n + y_n)`$ is convergent and hence Cauchy.

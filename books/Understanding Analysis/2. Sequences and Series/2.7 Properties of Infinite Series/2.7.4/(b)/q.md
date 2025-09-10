@@ -1,1 +1,0 @@
-A convergent series $`\sum x_n`$ and a bounded sequence $` (y_n) `$ such that $` \sum x_ny_n `$ diverges.

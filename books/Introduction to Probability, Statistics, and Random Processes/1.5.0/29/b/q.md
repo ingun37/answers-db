@@ -1,1 +1,0 @@
-![](https://www.probabilitycourse.com/images/chapter1/5b.png)

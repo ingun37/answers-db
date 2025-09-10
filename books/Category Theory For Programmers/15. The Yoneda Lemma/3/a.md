@@ -1,1 +1,0 @@
-If you give `()` as a to Yoneda lemma for the list functor, you get set of natural transformations from `C((), -)` to List that are isomorphic to `[()]`. So the data type of the natural transformations `(()->x)->[x]` could be another representation.

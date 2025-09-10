@@ -1,1 +1,0 @@
-Show that every disc $`\{\langle x,y \rangle : (x-a)^2 + (y-b)^2 < c^2, a,b,c \in \mathbb{R}\}`$ is open in $`\mathbb{R}^2`$

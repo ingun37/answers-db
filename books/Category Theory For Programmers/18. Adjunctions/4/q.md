@@ -1,1 +1,0 @@
-Show that the coproduct can be defined by an adjuntion. Start with the definition of the factorizer for a coproduct.
