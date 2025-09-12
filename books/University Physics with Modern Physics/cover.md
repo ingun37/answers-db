@@ -1,0 +1,1 @@
+This repository contains MATLAB solutions for the textbook exercises. The code is designed to illustrate the problem-solving process, often including algebraic expressions and visualizations through plotting. You'll notice that the code quality improves progressively as I became more proficient with MATLAB.

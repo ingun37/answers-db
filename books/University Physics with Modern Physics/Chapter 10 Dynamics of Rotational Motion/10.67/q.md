@@ -1,0 +1,2 @@
+A wheel with radius 0.0600 m rotates about a horizontal frictionless axle at its center. The moment of inertia of the wheel about the axle is  2.50 $`\text{kg}\cdot\text{m}^2`$. The wheel is initially at rest. Then at $`t=0`$ a force $`F=(500\text{N}/\text{s})t`$ is applied tangentially to the wheel and the wheel starts to rotate. What is the magnitude of the force at the instant when
+the wheel has turned through 8.00 revolutions?

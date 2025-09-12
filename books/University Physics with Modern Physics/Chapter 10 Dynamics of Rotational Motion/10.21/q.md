@@ -1,0 +1,1 @@
+What fraction of the total kinetic energy is rotational for the following objects rolling without slipping on a horizontal surface? (a) A uniform solid cylinder; (b) a uniform sphere; (c) a thin-walled, hollow sphere; (d) a hollow cylinder with outer radius R and inner radius R>2.

@@ -1,0 +1,2 @@
+Find the magnitude of the angular momentum of the second hand on a clock about an axis through the center of the clock face. The clock hand has a length of 15.0 cm and a mass of 6.00 g. Take the second hand to
+be a slender rod rotating with constant angular velocity about one end.
