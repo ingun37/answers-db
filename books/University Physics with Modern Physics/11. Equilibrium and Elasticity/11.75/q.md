@@ -1,0 +1,2 @@
+**The Farmyard Gate.** A gate 4.00 m wide and 2.00 m high weighs 700 N. Its center of gravity is at its center, and it is hinged at A and B. To relieve the strain on the top hinge, a wire CD is connected as shown in **Fig. P11.75**. The tension in CD is increased until the horizontal force at hinge A is zero. What are (a) the tension in the wire CD; (b) the magnitude of the horizontal component of the force at hinge B; (c) the combined vertical force exerted by
+hinges A and B?

@@ -1,0 +1,2 @@
+An increase in applied pressure $`\Delta p_1`$ produces a fractional volume change of $`(\Delta V/ V_0)_1`$ for a sample of glycerin. In terms of $`\Delta p_1`$,
+what pressure increase above atmospheric pressure is required to produce the same volume change $`(\Delta V/ V_0)_1`$ for a sample of ethyl alcohol?
