@@ -40,7 +40,7 @@ T_diff = T1x + T2x0;
 plot(k_x, subs(f_max, k_x), k_x, [T_diff, T_diff]);
 ```
 
-\!\[figure\_2.png\](./chapter 11\_media/figure\_2.png)
+![figure_2.png](./figure_2.png)
 
 ``` matlab
 disp('(d) feet will not slip')

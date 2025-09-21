@@ -29,7 +29,7 @@ B = mldivide(transpose(m2_inv_sample), transpose(x_sample - 1.5));
 plot(m2_inv_sample, x_sample, m2_inv_sample, m2_inv_sample .* B + 1.5);
 ```
 
-\!\[figure\_1.png\](./chapter 11\_media/figure\_1.png)
+![figure_1.png](./figure_1.png)
 
 ``` matlab
 eval(solve(B == (130 - 19*M)/50))
