@@ -1,0 +1,1 @@
+On a part-time job, you are asked to bring a cylindrical iron rod of length 85.8 cm and diameter 2.85 cm from a storage room to a machinist. Will you need a cart? (To answer, calculate the weight of the rod.)

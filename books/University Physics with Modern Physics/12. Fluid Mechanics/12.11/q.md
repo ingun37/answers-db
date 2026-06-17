@@ -1,0 +1,1 @@
+A U-shaped tube with both arms open to the air has a 35.0 cm column of liquid of unknown density in its right arm. Beneath this liquid and not mixing with it is glycerin that extends into the left arm of the tube. The surface of the glycerin in the left arm is 12.0 cm below the surface of the unknown liquid in the right arm. What is the density of the unknown liquid?

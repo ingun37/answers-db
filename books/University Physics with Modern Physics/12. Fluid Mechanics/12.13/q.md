@@ -1,0 +1,1 @@
+**BIO Ear Damage from Diving.** If the force on the tympanic membrane (eardrum) increases by about 1.5 N above the force from atmospheric pressure, the membrane can be damaged. When you go scuba diving in the ocean, below what depth could damage to your eardrum start to occur? The eardrum is typically 8.2 mm in diameter. (Consult Table 12.1.)

@@ -1,0 +1,1 @@
+You purchase a rectangular piece of metal that has dimensions $`5.0 \times 15.0 \times 30.0`$ mm and mass 0.0158 kg. The seller tells you that the metal is gold. To check this, you compute the average density of the piece. What value do you get? Were you cheated?

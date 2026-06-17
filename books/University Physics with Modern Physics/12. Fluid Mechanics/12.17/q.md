@@ -1,0 +1,1 @@
+An electrical short cuts off all power to a submersible diving vehicle when it is 30 m below the surface of the ocean. The crew must push out a hatch of area $`0.75 \ \text{m}^2`$ and weight 300 N on the bottom to escape. If the pressure inside is 1.0 atm, what downward force must the crew exert on the hatch to open it?

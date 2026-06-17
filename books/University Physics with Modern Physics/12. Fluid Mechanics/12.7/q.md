@@ -1,0 +1,1 @@
+**Oceans on Mars.** Scientists have found evidence that Mars may once have had an ocean 0.500 km deep. The acceleration due to gravity on Mars is $`3.71 \ \text{m/s}^2`$. (a) What would be the gauge pressure at the bottom of such an ocean, assuming it was freshwater? (b) To what depth would you need to go in the earth's ocean to experience the same gauge pressure?
