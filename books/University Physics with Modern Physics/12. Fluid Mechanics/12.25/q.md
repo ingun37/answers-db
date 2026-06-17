@@ -1,0 +1,1 @@
+A 900 N athlete in very good condition does not float in a freshwater pool. To keep him from sinking to the bottom, an upward force of 20 N must be applied to him. What are his volume and his average density?

@@ -1,0 +1,1 @@
+**CP** You hold a hose at waist height and spray water horizontally with it. The hose nozzle has a diameter of 1.80 cm, and the water splashes on the ground a distance of 0.950 m horizontally from the nozzle. If you constrict the nozzle to a diameter of 0.750 cm, how far from the nozzle, horizontally, will the water travel before it hits the ground? (Ignore air resistance.)

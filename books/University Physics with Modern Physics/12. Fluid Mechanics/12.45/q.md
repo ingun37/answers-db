@@ -1,0 +1,1 @@
+A sealed tank containing seawater to a height of 11.0 m also contains air above the water at a gauge pressure of 3.00 atm. Water flows out from the bottom through a small hole. How fast is this water moving?

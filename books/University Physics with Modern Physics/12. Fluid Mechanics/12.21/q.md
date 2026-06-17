@@ -1,0 +1,1 @@
+**Hydraulic Lift I.** For the hydraulic lift shown in Fig. 12.7, what must be the ratio of the diameter of the vessel at the car to the diameter of the vessel where the force $`F_1`$ is applied so that a 1520 kg car can be lifted with a force $`F_1`$ of just 125 N?

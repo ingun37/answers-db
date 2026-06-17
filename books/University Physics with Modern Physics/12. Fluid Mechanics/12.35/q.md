@@ -1,0 +1,1 @@
+A rock is suspended by a light string. When the rock is in air, the tension in the string is 39.2 N. When the rock is totally immersed in water, the tension is 28.4 N. When the rock is totally immersed in an unknown liquid, the tension is 21.5 N. What is the density of the unknown liquid?

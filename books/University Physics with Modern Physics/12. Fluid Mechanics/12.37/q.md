@@ -1,0 +1,1 @@
+A large plastic cylinder with mass 30.0 kg and density $`370 \ \text{kg/m}^3`$ is in the water of a lake. A light vertical cable runs between the bottom of the cylinder and the bottom of the lake and holds the cylinder so that 30.0% of its volume is above the surface of the water. What is the tension in the cable?

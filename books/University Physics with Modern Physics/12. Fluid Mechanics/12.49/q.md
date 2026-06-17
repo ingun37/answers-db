@@ -1,0 +1,1 @@
+At a certain point in a horizontal pipeline, the water's speed is 2.50 m/s and the gauge pressure is $`1.80 \times 10^4`$ Pa. Find the gauge pressure at a second point in the line if the cross-sectional area at the second point is twice that at the first.

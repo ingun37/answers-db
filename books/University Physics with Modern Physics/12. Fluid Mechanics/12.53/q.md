@@ -1,0 +1,1 @@
+**BIO Clogged Artery.** Viscous blood is flowing through an artery partially clogged by cholesterol. A surgeon wants to remove enough of the cholesterol to double the flow rate of blood through this artery. If the original diameter of the artery is $`D`$, what should be the new diameter (in terms of $`D`$) to accomplish this for the same pressure gradient?

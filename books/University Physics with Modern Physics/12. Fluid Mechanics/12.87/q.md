@@ -1,0 +1,7 @@
+**DATA** The Environmental Protection Agency is investigating an abandoned chemical plant. A large, closed cylindrical tank contains an unknown liquid. You must determine the liquid's density and the height of the liquid in the tank (the vertical distance from the surface of the liquid to the bottom of the tank). To maintain various values of the gauge pressure in the air that is above the liquid in the tank, you can use compressed air. You make a small hole at the bottom of the side of the tank, which is on a concrete platform—so the hole is 50.0 cm above the ground. The table gives your measurements of the horizontal distance $`R`$ that the initially horizontal stream of liquid pouring out of the tank travels before it strikes the ground and the gauge pressure $`p_g`$ of the air in the tank.
+
+| $`p_g`$ (atm) | 0.50 | 1.00 | 2.00 | 3.00 | 4.00 |
+|---|---|---|---|---|---|
+| $`R`$ (m) | 5.4 | 6.5 | 8.2 | 9.7 | 10.9 |
+
+(a) Graph $`R^2`$ as a function of $`p_g`$. Explain why the data points fall close to a straight line. Find the slope and intercept of that line. (b) Use the slope and intercept found in part (a) to calculate the height $`h`$ (in meters) of the liquid in the tank and the density of the liquid (in $`\text{kg/m}^3`$). Use $`g = 9.80 \ \text{m/s}^2`$. Assume that the liquid is nonviscous and that the hole is small enough compared to the tank's diameter so that the change in $`h`$ during the measurements is very small.

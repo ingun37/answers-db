@@ -1,0 +1,1 @@
+A shower head has 20 circular openings, each with radius 1.0 mm. The shower head is connected to a pipe with radius 0.80 cm. If the speed of water in the pipe is 3.0 m/s, what is its speed as it exits the shower-head openings?

@@ -1,0 +1,1 @@
+What gauge pressure is required in the city water mains for a stream from a fire hose connected to the mains to reach a vertical height of 15.0 m? (Assume that the mains have a much larger diameter than the fire hose.)

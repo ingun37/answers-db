@@ -1,0 +1,1 @@
+A rock with density $`1200 \ \text{kg/m}^3`$ is suspended from the lower end of a light string. When the rock is in air, the tension in the string is 28.0 N. What is the tension in the string when the rock is totally immersed in a liquid with density $`750 \ \text{kg/m}^3`$?

@@ -1,0 +1,1 @@
+An ore sample weighs 17.50 N in air. When the sample is suspended by a light cord and totally immersed in water, the tension in the cord is 11.20 N. Find the total volume and the density of the sample.

@@ -1,0 +1,1 @@
+**CALC** A swimming pool is 5.0 m long, 4.0 m wide, and 3.0 m deep. Compute the force exerted by the water against (a) the bottom and (b) either end. (*Hint:* Calculate the force on a thin, horizontal strip at a depth $`h`$, and integrate this over the end of the pool.) Do not include the force due to air pressure.

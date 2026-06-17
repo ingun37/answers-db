@@ -1,0 +1,1 @@
+Early barometers contained wine instead of mercury. On a day when the height $`h`$ of the liquid in the barometer tube is 750 mm for a mercury barometer, what is $`h`$ for a barometer that uses wine with density $`990 \ \text{kg/m}^3`$?
